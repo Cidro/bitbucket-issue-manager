@@ -1,0 +1,9 @@
+{
+  "extends": "standard",
+  "rules": {
+    "quotes": ["error", "double"],
+    "semi": ["error", "always"],
+    "prefer-promise-reject-errors": "off",
+    "object-curly-newline": ["error", { "consistent": true }]
+  }
+}
